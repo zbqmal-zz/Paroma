@@ -239,7 +239,7 @@ void game() {
     drawGame();
 
     // Erase the old number and write the new one
-    drawRect(145, 107, 10, 5, WHITE);
+    drawRect(145, 107, 10, 6, WHITE);
     drawString(145, 107, buffer, BLACK);
 
 

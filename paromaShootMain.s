@@ -839,7 +839,7 @@ game:
 	mov	lr, pc
 	bx	r3
 	ldr	r2, .L108+28
-	mov	r3, #5
+	mov	r3, #6
 	str	r2, [sp]
 	mov	r1, #107
 	mov	r2, #10
